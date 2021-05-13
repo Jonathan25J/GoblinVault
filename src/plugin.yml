@@ -1,0 +1,11 @@
+name: GoblinVault
+version: 1.0
+author: Jonaqhan
+main: me.jonaqhan.goblinvault.Main
+description: Makes it possible to use vaults
+api-version: 1.16
+
+commands:
+  vault:
+    description: /vault <number> to open a vault
+  
